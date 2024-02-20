@@ -1,0 +1,13 @@
+body {
+  background-color: peachpuff;
+  display: grid;
+}
+
+#container {
+  background-color: white;
+}
+
+.square {
+  background-color: blue;
+  color: white;
+}
